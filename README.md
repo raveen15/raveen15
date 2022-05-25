@@ -10,4 +10,6 @@ What I'm doing right now:
 - 📫 How to reach me: https://www.linkedin.com/in/raveenth-maheswaran/
 
 
-<img align="left" alt="Raveenth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raveen15&show_icons=true&hide_border=true&hide=prs,issues&count_private=true&theme=radical" />![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen15&theme=radical&hide_border=true)
+<img align="left" alt="Raveenth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raveen15&show_icons=true&hide_border=true&hide=prs,issues&count_private=true&theme=radical" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen15&theme=radical&hide_border=true)
