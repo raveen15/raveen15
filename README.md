@@ -9,3 +9,4 @@ What I'm doing right now:
 - 💼 I’m looking for a full-time, entry-level position in software development
 - 📫 How to reach me: https://www.linkedin.com/in/raveenth-maheswaran/
 
+[![Raveenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=raveen15)](https://github.com/anuraghazra/github-readme-stats)
