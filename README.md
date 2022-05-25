@@ -14,4 +14,6 @@ What I'm doing right now:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen15&theme=radical&hide_border=true)
 
-<a align="center">Check out my pinned repositories below!</a>
+<p align="center">
+    Check out my pinned repositories below!
+</p>
