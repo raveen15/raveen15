@@ -9,9 +9,5 @@ What I'm doing right now:
 - 💼 I’m looking for a full-time, entry-level position in software development
 - 📫 How to reach me: https://www.linkedin.com/in/raveenth-maheswaran/
 
-<a href="https://github.com/raveen15/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raveen15&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/raveen15/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raveen15&repo=convoychat" />
-</a>
+![Raveenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=raveen15&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen15&langs_count=8&theme=radical)](https://github.com/raveen15/github-readme-stats)
