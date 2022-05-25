@@ -11,4 +11,4 @@ What I'm doing right now:
 
 ![Raveenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=raveen15&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen15&langs_count=8&theme=radical&card_width=300px)](https://github.com/raveen15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen15&langs_count=8&theme=radical&card_width=250px)](https://github.com/raveen15/github-readme-stats)
