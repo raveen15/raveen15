@@ -10,4 +10,4 @@ What I'm doing right now:
 - 📫 How to reach me: https://www.linkedin.com/in/raveenth-maheswaran/
 
 ![Raveenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=raveen15&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen15&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveen15&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
